@@ -73,5 +73,24 @@ Specify the authorized user names in `face_registration\authorized_users.txt` fi
 
 ## Drowsiness Detection
 
-### (optional) create a template of your open eye
-#### Run the eyetracking.m
+### Create a template of your open eye (optional)
+
+1. Copy your captured image inside `drowsiness_detection` folder.
+
+2. Run `templateProcessing.m` to generate your open eye template image.
+
+#### Testing with real-time video stream
+
+> Note: For better performance, make sure your eyes are illuminated with a direct light projected on your face with frontal angle. Also, keep a distance of 35 to 50 cm to your webcam.
+
+1. Run the `eyeTrack.m` file. 
+
+2. Wait for it to register your eyes. (R > 0.10)
+
+
+## Demo videos
+### Face recognition
+https://youtu.be/xd6nh1Ohc3Y
+
+### Drowsiness detection
+https://www.youtube.com/watch?v=UbYcYF4xsbY
