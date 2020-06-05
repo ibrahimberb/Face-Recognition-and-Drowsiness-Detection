@@ -79,7 +79,7 @@ Specify the authorized user names in `face_registration\authorized_users.txt` fi
 
 2. Run `templateProcessing.m` to generate your open eye template image.
 
-#### Testing with real-time video stream
+### Testing with real-time video stream
 
 > Note: For better performance, make sure your eyes are illuminated with a direct light projected on your face with frontal angle. Also, keep a distance of 35 to 50 cm to your webcam.
 
