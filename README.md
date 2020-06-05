@@ -2,9 +2,9 @@
 
 ### Group Member
 
-Fahrulnisa Sema Özbaş
++ Fahrulnisa Sema Özbaş
 
-Ibrahim Berber
++ Ibrahim Berber
 
 ### Requirements
 
