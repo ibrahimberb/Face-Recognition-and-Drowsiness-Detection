@@ -1,11 +1,5 @@
 # Application of Image Processing Tecniques on Vehicles
 
-### Group Member
-
-+ Fahrulnisa Sema Özbaş
-
-+ Ibrahim Berber
-
 ### Requirements
 
 ```
@@ -100,3 +94,9 @@ https://youtu.be/xd6nh1Ohc3Y
 
 ### Drowsiness detection
 https://www.youtube.com/watch?v=UbYcYF4xsbY
+
+---
+### Contributors
+
++ Fahrulnisa Sema Özbaş
++ Ibrahim Berber
